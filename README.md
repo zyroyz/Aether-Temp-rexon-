@@ -1,6 +1,6 @@
 # Mod Menu Template  
 
-![Mod Menu Banner]([https://media.discordapp.net/attachments/1345742664355680547/1347581452312776806/image.png?ex=67cc5887&is=67cb0707&hm=57ced229f5747715af2f799bd1f4ea4381072513533c4b7114f5bc72a803882d&=&format=webp&quality=lossless&width=645&height=647]))  
+![Mod Menu Banner](https://media.discordapp.net/attachments/1345742664355680547/1347581452312776806/image.png?ex=67cc5887&is=67cb0707&hm=57ced229f5747715af2f799bd1f4ea4381072513533c4b7114f5bc72a803882d&=&format=webp&quality=lossless&width=645&height=647)  
 
 ## 🚀 About  
 This is my **first-ever template** that I’m releasing! 🎉  
