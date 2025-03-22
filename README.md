@@ -1,6 +1,6 @@
 # Mod Menu Template  
 
-![Mod Menu Banner](https://media.discordapp.net/attachments/1346469712510451722/1347583651025780898/image.png?ex=67d6e693&is=67d59513&hm=06e3881cc4085e9c996e6e3489a9ee6770fdfce0fc6646cce3fd81d982b01081&=&format=webp&quality=lossless&width=853&height=856)  
+![Mod Menu Banner](https://heishere.neocities.org/image.png)  
 
 ## 🚀 About  
 It’s inspired by **Rexon Paid**, and I hope you enjoy it.  
