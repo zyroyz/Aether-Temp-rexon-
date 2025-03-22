@@ -15,4 +15,3 @@ This is for **educational purposes only**. I am not responsible for how this is 
 
 ## ❤️ Credits  
 Credits to **iidk** for the main template it made it easier to create menus with it.  
-*(Also please make me an actual mod creator in your server)*  
